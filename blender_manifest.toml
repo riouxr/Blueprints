@@ -1,7 +1,7 @@
 
 schema_version = "1.0.0"
 id = "blueprints"
-version = "1.0.2"
+version = "1.0.3"
 name = "Blueprints"
 tagline = "Manage background images "
 maintainer = "https://github.com/riouxr/Blueprints"
