@@ -1,0 +1,13 @@
+
+schema_version = "1.0.0"
+id = "blueprints"
+version = "1.0.2"
+name = "Blueprints"
+tagline = "Manage background images "
+maintainer = "https://github.com/riouxr/Blueprints"
+type = "add-on"
+
+tags = ["Modeling"]
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2025 Robert Rioux"]
+blender_version_min = "4.2.0"
